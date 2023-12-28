@@ -2,7 +2,7 @@
 
 Use your favorite programming language to implement a one hidden-layer feed forward neural network to classify products into “pass” or “fail” categories. You cannot use autograd libraries, but you can use libraries for matrix math such as numpy. The neural network classifier will assume the role of quality control for a manufacturing plant. We use a simplified dataset for this assignment.
 
-Four data files are in the [data](/hw1/data/) directory. Each file has 400 data points, with one data point on each line where the data points have five inputs $(x_1, x_2, x_3, x_4,x_5)$ and two outputs $(y_1, y_2)$:
+Four data files are in the [data](./hw1/data/) directory. Each file has 400 data points, with one data point on each line where the data points have five inputs $(x_1, x_2, x_3, x_4,x_5)$ and two outputs $(y_1, y_2)$:
 
 - $x_1, x_2, x_3, x_4, x_5, y_1, y_2$
 
